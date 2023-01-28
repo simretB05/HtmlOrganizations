@@ -1,2 +1,2 @@
-HtmlOrganizations
+HtmlSemantics
  # Hey, I linked them!
